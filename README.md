@@ -2,7 +2,7 @@
 
 > A mixer player embed React component.
 
-[![NPM](https://img.shields.io/npm/v/react-mixer-embed.svg)](https://www.npmjs.com/package/react-mixer-embed) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-mixer-embeds.svg)](https://www.npmjs.com/package/react-mixer-embeds) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
