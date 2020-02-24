@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import { MixerChat } from 'react-mixer-embed';
 
 class App extends Component {
   render() {
     return (
       <div>
-        Example
+        <MixerChat channel="travpiper" composer={false} />
       </div>
     );
   }
